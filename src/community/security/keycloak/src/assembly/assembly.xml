@@ -17,6 +17,7 @@
       <outputDirectory></outputDirectory>
       <includes>
         <include>gs-sec-keycloak*</include>
+        <include>gson*</include>
         <include>http*</include>
         <include>keycloak*</include>
         <include>spring-security*</include>
